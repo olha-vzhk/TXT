@@ -1,0 +1,5 @@
+1)Creating documentation,
+2)Preparing software tests,
+3)Understanding the testing process,
+4)Composing defect reports,
+5)Analytical and logical reasoning
